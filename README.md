@@ -1,5 +1,6 @@
 # Circus
 The Circus Project
+Updated to lecture instructions
 
 ### Credits
 
