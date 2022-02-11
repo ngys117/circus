@@ -94,5 +94,7 @@ public class Circus {
         for(Cage c: cages) {
             c.release();
         }
+
+        System.out.println("Version 1.0.2");
     }
 }
